@@ -1,135 +1,62 @@
 {
   "width": "100%",
-  "height": "600",
+  "height": "100%",
   "symbolsGroups": [
     {
-      "name": "Stocks",
+      "name": "All",
+      "originalName": "Indices",
       "symbols": [
         {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
+          "name": "NASDAQ:AAPL",
+          "displayName": "Apple Inc."
         },
         {
-          "name": "TSX:BB",
-          "displayName": "BB - Blackberry"
+          "name": "AMEX:ARKK",
+          "displayName": "ARK Innovation ETF"
         },
         {
-          "name": "TSX:BEPC",
-          "displayName": "BEPC - Brookfield Renewable"
+          "name": "NASDAQ:FB",
+          "displayName": "Facebook, Inc."
         },
         {
-          "name": "TSX:BEP.UN",
-          "displayName": "BEP.UN - Brookfield Renewable"
+          "name": "NYSE:RTX",
+          "displayName": "Raytheon Technologies Corporation"
         },
         {
-          "name": "TSX:BIP.UN",
-          "displayName": "BIP.UN - Brookfield Infrastructure"
+          "name": "NASDAQ:TSLA",
+          "displayName": "Tesla, Inc."
+        }
+      ]
+    },
+    {
+      "name": "Stocks",
+      "originalName": "Commodities",
+      "symbols": [
+        {
+          "name": "NASDAQ:AAPL",
+          "displayName": "Apple Inc."
         },
         {
-          "name": "TSX:BMO",
-          "displayName": "BMO - Bank of Montreal"
+          "name": "NASDAQ:FB",
+          "displayName": "Facebook, Inc."
         },
         {
-          "name": "NASDAQ:CLAR",
-          "displayName": "CLAR - Clarus (BD)"
+          "name": "NYSE:RTX",
+          "displayName": "Raytheon Technologies Corporation"
         },
         {
-          "name": "NYSE:GME",
-          "displayName": "GME - Gamestop"
-        },
-        {
-          "name": "TSXV:GRN",
-          "displayName": "GRN.V - Greenlane Renewables"
-        },
-        {
-          "name": "TSX:GRT.UN",
-          "displayName": "GRT.UN - Granite REIT"
-        },
-        {
-          "name": "TSX:LSPD",
-          "displayName": "LSPD - Lightspeed"
-        },
-        {
-          "name": "NASDAQ:MSFT",
-          "displayName": "MSFT - Microsoft"
-        },
-        {
-          "name": "NYSE:PLTR",
-          "displayName": "PLTR - Palantir"
-        },
-        {
-          "name": "TSX:VET",
-          "displayName": "VET - Vermillion Energy"
+          "name": "NASDAQ:TSLA",
+          "displayName": "Tesla, Inc."
         }
       ]
     },
     {
       "name": "ETFs",
+      "originalName": "Bonds",
       "symbols": [
         {
-          "name": "NASDAQ:BOTZ",
-          "displayName": "BOTZ - Robots & AI"
-        },
-        {
-          "name": "AMEX:IPAY",
-          "displayName": "IPAY - Mobile/FinTech"
-        },
-        {
-          "name": "NASDAQ:QCLN",
-          "displayName": "QCLN - Clean Energy Index"
-        },
-        {
-          "name": "NASDAQ:SKYY",
-          "displayName": "SKYY - Cloud Computing"
-        },
-        {
-          "name": "TSX:TEC",
-          "displayName": "TEC - Technology Index"
-        },
-        {
-          "name": "TSX:XIT",
-          "displayName": "XIT - CAD Tech Index"
-        },
-        {
-          "name": "TSX:ZRE",
-          "displayName": "ZRE - REITs"
-        },
-        {
-          "name": "TSX:ZUT",
-          "displayName": "ZUT - Utilities"
-        },
-        {
-          "name": "TSX:ZWB",
-          "displayName": "ZWB - CC Banks"
-        },
-        {
-          "name": "TSX:ZWU",
-          "displayName": "ZWU - CC Utilities"
-        }
-      ]
-    },
-    {
-      "name": "Watch List",
-      "symbols": [
-        {
-          "name": "NASDAQ:CRSR",
-          "displayName": "CRSR - Corsair"
-        },
-        {
-          "name": "NYSE:DM",
-          "displayName": "DM - Desktop Metal"
-        },
-        {
-          "name": "NYSE:PRLB",
-          "displayName": "PRLB - PROTO Labs"
-        },
-        {
-          "name": "AMEX:PRNT",
-          "displayName": "PRNT - 3D Printing"
-        },
-        {
-          "name": "NYSE:SQ",
-          "displayName": "SQ - Square"
+          "name": "AMEX:ARKK",
+          "displayName": "ARK Innovation ETF"
         }
       ]
     }
